@@ -1,0 +1,23 @@
+sample_code,serie,# Nucleus,tissue type,# foci in nucleus,ki_67_subclass
+s1,0,1,lung,10,high
+s1,0,2,lung,50,low
+s1,0,3,lung,5,non_replicating
+s1,1,1,lung,0,high
+s1,1,2,lung,1,low
+s1,1,3,lung,10,low
+s1,1,4,lung,20,non_replicating
+s2,0,1,ovarian,1,mid
+s2,0,2,ovarian,44,mid
+s2,0,5,ovarian,12,non_replicating
+s2,1,1,ovarian,1,mid
+s2,1,2,ovarian,2,mid
+s2,2,1,ovarian,65,high
+s2,2,2,ovarian,30,non_replicating
+s2,2,3,ovarian,60,low
+s2,2,4,ovarian,50,low
+s2,2,5,ovarian,51,non_replicating
+s3,0,1,ovarian,65,non_replicating
+s3,0,2,ovarian,30,non_replicating
+s3,0,3,ovarian,60,low
+s3,1,1,ovarian,50,low
+s3,1,2,ovarian,51,mid
