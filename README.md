@@ -1,3 +1,6 @@
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/KubaOfca/Blog/tree/main)
+
+
 # SQL-like Window Functions in Pandas
 
 ## What Are Window Functions?
